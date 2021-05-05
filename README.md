@@ -1,4 +1,3 @@
-### Hi there 👋
 
 # RAFAEL MARQUES FERREIRA SANTOS
 
@@ -7,7 +6,7 @@
 - Instagram: https://www.instagram.com/rafiss.bk/
 - LinkedIN:https://www.linkedin.com/in/rafael-marques-62510b13b/
 - e-mail: rafael.marques-98@hotmail.com
-- whatsapp: (31) 982366096
+- whatsapp: https://wa.me/5531982366096
 
 
 
