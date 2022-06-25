@@ -2,7 +2,7 @@
 # RAFAEL MARQUES FERREIRA SANTOS
 
 
-Olá, Sou Rafael Marques tenho 24 anos e moro em Santa Luzia/MG, apaixonado por tecnologia e instrumentos musicais principalmente piano. Formado em análise e desenvolvimento de sistemas, comecei me interessar muito pela programação na faculdade e próximo ao segundo período comecei estudar HTML, CSS e gostei muito dessa area de front-end. Atualmente estou focado em aprender desenvolvimento web com React, javascript e typescript mas futuramente também pretendo estudar backend, sou iniciante na área e gosto muito de aprender coisas novas.
+Olá, Sou Rafael Marques tenho 24 anos e moro em Santa Luzia/MG, apaixonado por tecnologia e instrumentos musicais principalmente piano. Formado em análise e desenvolvimento de sistemas, comecei me interessar muito pela programação na faculdade e próximo ao segundo período comecei estudar HTML, CSS e gostei muito dessa area de front-end. Atualmente estou focado em aprender desenvolvimento web com React, javascript e typescript mas futuramente também pretendo estudar backend, gosto muito de aprender coisas novas, sou iniciante e ainda não trabalho na area da programação mas espero conseguir breve e vou me esforçar ao máximo para alcançar meus objetivos.
 
 ### Ferramentas e Tecnologias que estou aprendendo atualmente
 
