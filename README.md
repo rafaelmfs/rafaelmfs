@@ -17,10 +17,8 @@ Olá, Sou Rafael Marques tenho 24 anos e moro em Santa Luzia/MG, apaixonado por 
 
 ### Contatos
 
-- e-mail: rafael.marques-98@hotmail.com 
-- LinkedIN: https://www.linkedin.com/in/rafael-marques-62510b13b/
-- whatsapp: https://wa.me/5531982366096
-- Instagram: https://www.instagram.com/rafiss.bk/
+  [![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafael.marques-98@hotmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-marques-62510b13b/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rafiss.bk/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531982366096)
+
 
 
 
