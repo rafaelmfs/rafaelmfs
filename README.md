@@ -9,11 +9,11 @@ Olá, Sou Rafael Marques tenho 24 anos e moro em Santa Luzia/MG, apaixonado por 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" height="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="54" height="54"/>
 
-<div>
+<!-- <div>
 <a href="https://github.com/rafaelmfs">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmfs&layout=compact&langs_count=7&theme=gotham&hide=php,blade,shell"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmfs&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-</div>
+</div> -->
 
 ### Contatos
 
