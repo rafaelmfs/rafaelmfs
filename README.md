@@ -4,16 +4,20 @@
 
 Olá, Sou Rafael Marques, apaixonado por tecnologia e instrumentos musicais principalmente piano. Formado em análise e desenvolvimento de sistemas, comecei me interessar muito pela programação na faculdade e próximo ao segundo período comecei estudar HTML, CSS e gostei da area de front-end. Atualmente estou focado em desenvolvimento web com javascript e typescript mas tenho muito interesse em tecnologias de back end e tambem mobile, por enquanto ainda nao possuo conhecimentos nessas tecnologias mas pretendo algo na área. Gosto muito de aprender coisas novas, buscando cada vez mais me aprimorar na area e me esforçando ao máximo para alcançar meus objetivos.
 
-### Ferramentas e Tecnologias que estou aprendendo atualmente
+### Ferramentas e Tecnologias que utilizo atualmente
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" height="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="54" height="54"/>
 
-<!-- <div>
-<a href="https://github.com/rafaelmfs">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmfs&layout=compact&langs_count=7&theme=gotham&hide=php,blade,shell"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmfs&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-</div> -->
+### 📊 GitHub Stats
+ 
+<div align="start">
+ 
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafaelmfs&theme=tokyonight" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelmfs&theme=tokyonight" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafaelmfs&theme=tokyonight" />
+</div>
+
 
 ### Contatos
 
